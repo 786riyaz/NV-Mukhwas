@@ -1,6 +1,0 @@
-{
-  "name": "NV Mukhwas",
-  "description": "Artisan mukhwas premium brand website with responsive catalog, custom mixer, and instant WhatsApp ordering for Nanda Traders.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
