@@ -177,7 +177,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const btnMixerOrder = document.getElementById('btnMixerOrder');
   if (btnMixerOrder) {
     btnMixerOrder.addEventListener('click', () => {
-      const waNumber = '919909221451';
+      const waNumber = '919824043947';
       const fennelValue = sliders.fennel.value;
       const gulkandValue = sliders.gulkand.value;
       const corianderValue = sliders.coriander.value;
@@ -205,7 +205,7 @@ Please confirm my order coordinates. Thank you!`;
 
 // 4. STANDALONE WHATSAPP DISPATCH HELPER FOR CATALOG PRODUCTS
 function orderProduct(productName, button) {
-  const waNumber = '919909221451';
+  const waNumber = '919824043947';
   const card = button.closest('.product-card');
   const size = card.getAttribute('data-size') || 'pocket';
   const displayPrice = card.getAttribute(`data-${size}size-price`);
